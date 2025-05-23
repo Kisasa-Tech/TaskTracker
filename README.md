@@ -69,7 +69,7 @@ task-tracker/
 
 ## Examples:
 
-![Basic Task Tracker](https://i.ibb.co/hRLJb9z9/task-tracker-2diba.png)
+[![Basic Task Tracker](https://i.ibb.co/hRLJb9z9/task-tracker-2diba.png)](https://roadmap.sh/projects/task-tracker-js)
 
 [![OneList Web App](https://i.ibb.co/0RcVbPch/Screenshot-2025-05-21-163132.png)](https://useonelist.com/app/)
 
